@@ -1,0 +1,6 @@
+{
+  "name": "Abhi AI",
+  "description": "Ask Anything. Learn Everything. Modern AI assistant for studies, coding, gaming, creators, and everyday questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
